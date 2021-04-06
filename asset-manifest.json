@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/cryptoViewer/static/css/main.4d4b7c42.chunk.css",
-    "main.js": "/cryptoViewer/static/js/main.0da89482.chunk.js",
-    "main.js.map": "/cryptoViewer/static/js/main.0da89482.chunk.js.map",
+    "main.js": "/cryptoViewer/static/js/main.fd704931.chunk.js",
+    "main.js.map": "/cryptoViewer/static/js/main.fd704931.chunk.js.map",
     "runtime-main.js": "/cryptoViewer/static/js/runtime-main.1f5db2f8.js",
     "runtime-main.js.map": "/cryptoViewer/static/js/runtime-main.1f5db2f8.js.map",
-    "static/js/2.98801a75.chunk.js": "/cryptoViewer/static/js/2.98801a75.chunk.js",
-    "static/js/2.98801a75.chunk.js.map": "/cryptoViewer/static/js/2.98801a75.chunk.js.map",
+    "static/js/2.7ae45ecb.chunk.js": "/cryptoViewer/static/js/2.7ae45ecb.chunk.js",
+    "static/js/2.7ae45ecb.chunk.js.map": "/cryptoViewer/static/js/2.7ae45ecb.chunk.js.map",
     "index.html": "/cryptoViewer/index.html",
     "static/css/main.4d4b7c42.chunk.css.map": "/cryptoViewer/static/css/main.4d4b7c42.chunk.css.map",
-    "static/js/2.98801a75.chunk.js.LICENSE.txt": "/cryptoViewer/static/js/2.98801a75.chunk.js.LICENSE.txt"
+    "static/js/2.7ae45ecb.chunk.js.LICENSE.txt": "/cryptoViewer/static/js/2.7ae45ecb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f5db2f8.js",
-    "static/js/2.98801a75.chunk.js",
+    "static/js/2.7ae45ecb.chunk.js",
     "static/css/main.4d4b7c42.chunk.css",
-    "static/js/main.0da89482.chunk.js"
+    "static/js/main.fd704931.chunk.js"
   ]
 }
