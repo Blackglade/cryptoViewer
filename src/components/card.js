@@ -79,7 +79,7 @@ export default function Card({name, symbol, supply, image, price, change, sparkl
                 </StyledPrice>
                 
             </StyledCard>
-            {toggle && <Sparkline width='485px' height='175px' data={groupCount(sparkline)} up={change > 0} interactive={true} />}
+            {toggle && <Sparkline width='500px' height='175px' data={groupCount(sparkline)} up={change > 0} interactive={true} />}
         </section>
     )
 }
